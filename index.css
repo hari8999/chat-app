@@ -1,0 +1,12 @@
+.hilayega {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.image {
+  border: 1px solid red;
+  border-radius: 20px;
+  padding: 5px;
+}
